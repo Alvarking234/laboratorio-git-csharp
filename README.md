@@ -7,3 +7,5 @@ Integrantes:
 - Nombre 3 
  
 Aplicacion de consola creada para practicar Git. 
+
+Curso: Git y GitHub
