@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hola, Git y GitHub");
+﻿Console.WriteLine("Holaa equipo");
