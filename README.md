@@ -2,9 +2,8 @@
  
 Integrantes: 
  
-- Nombre 1 
-- Nombre 2 
-- Nombre 3 
+Alvaro Morales
+1583826
  
 Aplicacion de consola creada para practicar Git. 
 
